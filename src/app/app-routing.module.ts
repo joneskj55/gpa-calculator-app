@@ -18,7 +18,7 @@ import { SignInGuard } from './sign-in.guard';
 
 const routes: Routes = [
   {
-    path: 'session/sign-in',
+    path: '',
     component: BaseLayoutComponent,
     children: [
       {
