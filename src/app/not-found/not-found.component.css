@@ -1,0 +1,15 @@
+/*
+============================================
+; Title:  not-found.component.css
+; Author: Kevin Jones
+; Date: 29 June 2021
+; Description: Not found component CSS file
+;===========================================
+*/
+
+.error {
+  font-size: 10em;
+  color: #673ab7;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
