@@ -24,3 +24,9 @@ mat-card-subtitle {
   color: #d8000c;
   background-color: #ffd2d2;
 }
+
+@media only screen and (min-width: 275px) and (max-width: 743px) {
+  .signIn-container {
+    width: 83%;
+  }
+}
